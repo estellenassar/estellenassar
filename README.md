@@ -1,7 +1,7 @@
 - Hi, I’m @estellenassar 👋
-- I’m interested in applying machine learning on data to make an impact in the field of healthcare
+- I’m interested in applying machine learning on data to make an impact in the field of healthcare 
 - I also love sports, especially football and basketball ⚽️ 🏀
-- I’m currently working on predicting the NBA MVP, check it out on my [Kaggle](https://www.kaggle.com/code/estellenassar/nba-mvp-prediction)
+- Check out my [website](https://estellenassar.com) for more info about me and my projects!
 
 <!---
 estellenassar/estellenassar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

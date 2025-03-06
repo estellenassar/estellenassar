@@ -1,5 +1,5 @@
 - Hi, I’m @estellenassar 👋
-- I’m interested in applying machine learning on data to impact the field of healthcare 
+- I’m interested in using machine learning to get insights from biomedical data
 - I also love sports, especially football and basketball ⚽️ 🏀
 - Check out my [website](https://estellenassar.com) for more info about me and my projects!
 
